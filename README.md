@@ -1,4 +1,4 @@
-"# Science Unlimited Arduino Coding Resources"
+# Science Unlimited Arduino Coding Resources
 
 Hello, future scientists! This repository helps you to get started with Arduino. Arduino is an effective prototyping tool. When you will become a scientist, you will sometimes need to build your own tools. You can make them with Arduinos!
 
