@@ -1,4 +1,4 @@
-#The AQT
+# The AQT
 
 Name: Ritik, Jerry, Janet, Dunjhun, Atara
 
